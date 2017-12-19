@@ -10,6 +10,7 @@ namespace DesignPattern_Labyrinthe
     {
         static void Main(string[] args)
         {
+            
         }
     }
 }
